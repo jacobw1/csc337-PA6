@@ -1,0 +1,25 @@
+###########################################################################
+#Copyright 1999 The Internet Dictionary Project/Tyler Chambers
+#http://www.june29.com/IDP/
+#This file is free to use and modify.  Thank you for using the IDP.
+#
+#Approximately 5048 entries.  9/21/97
+#Approximately 5488 entries.  1/7/98
+#Approximately 5910 entries.  3/8/98
+#Approximately 7450 entries.  2/19/99
+###########################################################################
+a	un, uno, una[Article]
+aardvark	cerdo hormiguero
+aardvark	oso hormiguero[Noun]
+aardvarks	cerdos hormigueros
+aardvarks	osos hormigueros
+ab	prefijo que indica separacio/n
+aback	hacia atras
+aback	hacia atrás,take aback, desconcertar. En facha.
+aback	por sopresa, desprevenidamente, de improviso
+aback	atra/s[Adverb]
+abacterial	abacteriano, sin bacterias
+abacus	a/baco
+abacuses	a/bacos
+abaft	A popa (towards stern)/En popa (in stern)
+abaft	detra/s de[Adverb]
