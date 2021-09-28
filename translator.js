@@ -101,7 +101,7 @@ const server = http.createServer( function(req, res) {
     }
   }
 });
-// listens for the server to start and prints url into console 
+// listens for the server to start and prints url into console
 server.listen(port, hostname,function () {
-  console.log(`Server running at http://${hostname}:${port}/`);
+  console.log(`Server running at http://${hostname}:${port}/translate/TYPE/CONTENT`);
 });
